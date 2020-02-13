@@ -1,0 +1,49 @@
+body {
+    background: rgb(0, 102, 255);
+    flex: auto;
+    align-items: center;
+    
+}
+
+header {
+    font: normal 15pt Arial;
+    color: azure;
+    margin: center;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+section {
+    font: normal 14pt Helvetica;
+    background: azure;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.37);
+    flex: auto;
+
+}
+
+section div img {
+    flex-wrap: initial;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 50px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 200px;
+    
+} 
+
+footer {
+    font: normal 9pt Arial;
+    color: azure;
+    margin: center;
+    text-align: center;
+    font-style: italic;
+
+}
