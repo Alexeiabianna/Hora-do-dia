@@ -17,15 +17,27 @@ div {
 }
 
 section {
-    font: normal 14pt Helvetica;
+    font: normal 19pt Helvetica;
     background: azure;
     padding: 15px;
     width: 500px;
     margin: auto;
-    border-radius: 10px;
+    border-radius: 25px;
     box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.37);
     flex: auto;
+}
 
+div a {
+    margin-top: 50px;
+    font: bold 10pt Arial;
+    background: #fbb505;
+    width: 120px;
+    height: 36px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.37);
+    padding: 15px;    
+    color: azure;        
+    text-decoration: none;
 }
 
 section div img {
@@ -35,11 +47,11 @@ section div img {
     padding: 10px;
     margin: 50px;
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 200px;
-    
-} 
+    border-radius: 200px;    
+}
 
 footer {
+    margin-top: 50px;
     font: normal 9pt Arial;
     color: azure;
     margin: center;
