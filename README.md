@@ -1,7 +1,7 @@
 # App Hora do Dia 
 ===============
 
-## Aplicativo simples construido conforme exercício proposto no curso Java Script do Professor Guanabara do Curso em Video do youtube. 
+## Aplicativo simples construído conforme exercício proposto no curso Java Script do Professor Guanabara do Curso em Video do youtube. 
 
 Preview da da aplicação
 
